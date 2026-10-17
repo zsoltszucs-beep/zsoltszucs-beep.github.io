@@ -1,0 +1,4 @@
+# Indexierung erlaubt. Zum Sperren für Suchmaschinen: "Allow: /" durch "Disallow: /" ersetzen.
+User-agent: *
+Allow: /
+# Sitemap: https://DEINE-DOMAIN/sitemap.xml
